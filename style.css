@@ -1,3 +1,10 @@
+body{
+  color: white
+    background: black
+    font-family: "Tilt Neon", sans-serif;
+    margin: 80px;
+    margin-bottom: 100px;
+}
 .chamada{
     background: pink 
     margin-top: 80px;
